@@ -1,8 +1,7 @@
 ---
-title: "Ejercicio práctico Rmarkdown"
+title: "Actividad final curso Ciencia Abierta UCA"
 author:
     - names: "María Hurtado de Mendoza"
-
 date: "`r Sys.Date()`" 
 output: 
     distill::distill_article:
